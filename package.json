@@ -1,0 +1,17 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "This is a discord_bot using discord API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index"
+  },
+  "author": "Perfect_dash",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
